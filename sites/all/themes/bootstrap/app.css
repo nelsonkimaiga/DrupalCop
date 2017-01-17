@@ -1,0 +1,58 @@
+/*
+AESA CoP
+*/
+/* 
+    Created on : Jan 17, 2017, 12:02:27 PM
+    Author     : kimaiga
+*/
+
+html, body{
+    text-transform: uppercase;
+    font-family: 'Raleway', serif;
+}
+.navbar-brand img {
+    height: 50px;
+    width: auto;
+}
+
+.navbar-brand > img {
+    display: block;
+}
+.navbar-brand > img {
+    display: block;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+
+#searchform{
+    margin-top: 250px;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.buttons{
+    margin: 0 0 1rem 0;
+     -webkit-appearance: none;
+     transition: background-color 0.25s ease-out, color 0.25s ease-out;
+     font-size: 21px;
+     vertical-align: baseline;
+}
+
+#containerheader{
+    text-align: center;
+}
