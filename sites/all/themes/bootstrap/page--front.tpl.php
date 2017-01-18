@@ -21,7 +21,7 @@
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="#">Home</a></li>
                     <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Communities</a></li>
+                    <li><a href="#communities">Communities</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Browse<span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -48,9 +48,10 @@
                   ?>
             </div>
         </div>
+        <hr>
     </div>
     <br>
-    <hr>
+    
     <div class="container">
         <h4 id="containerheader">The AESA community of practice</h4>
         <br>
@@ -63,6 +64,22 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4">
                 <a href="" class="btn btn-primary btn-lg buttons"><i class="fa fa-users fa-lg" aria-hidden="true"></i> Join Groups</a>
+            </div>
+        </div>
+         <hr>
+    </div>
+   
+    <div id="communities" class="container">
+        <h4 id="containerheader">Featured Communities</h4>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4">
+                <a href="" class="btn btn-info btn-lg buttons" title="Climate Impact Research Capacity and Leadership Enhancement"><i class="fa fa-users fa-lg" aria-hidden="true"></i> CIRCLE</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4">
+                <a href="" class="btn btn-info btn-lg buttons" title="Developing Excellence in Leadership, Training and Science in Africa"><i class="fa fa-users fa-lg" aria-hidden="true"></i> DELTAS</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4">
+                <a href="" class="btn btn-info btn-lg buttons" title="Grand Challenges Africa"><i class="fa fa-users fa-lg" aria-hidden="true"></i> Grand Challenges Africa</a>
             </div>
         </div>
     </div>
