@@ -70,7 +70,7 @@ bootstrap_include('bootstrap', 'includes/alter.inc');
 /*
  *  Preprocess page.tpl.php to inject the $search_box variable back into D7.
  */
-function bootstrap_theme_preprocess_page(&$variables){
-  $search_box = drupal_render(drupal_get_form('search_form'));
-  $variables['search_box'] = $search_box;
-}
+//function bootstrap_theme_preprocess_page(&$variables){
+//  $search_box = drupal_render(drupal_get_form('search_form'));
+//  $variables['search_box'] = $search_box;
+//}
